@@ -5,8 +5,6 @@ Task 3 of my Data Analysis internship at **SWYNEX Technologies**. This project t
 ## 🔗 Live Dashboard
 **[Open the interactive dashboard](https://fan-beech-ax2.julius.site?utm_source=shared_artifact&ref=JFETJHQGDKWG)**
 
-![Dashboard Preview](images/dashboard.png)
-
 ## 🎯 Objective
 Build a professional dashboard with KPIs, charts and useful filters that communicates the key insights from the analyzed dataset.
 
@@ -48,9 +46,3 @@ sales-analysis-dashboard/
 ## 💡 Key Learnings
 - [e.g. How to choose the right chart for each insight]
 - [e.g. Designing KPIs and filters that make a dashboard easy to use]
-
-## 👤 Author
-**[Aarya Pawar]**
-[LinkedIn profile link]
-
-#SWYNEX #Internship
